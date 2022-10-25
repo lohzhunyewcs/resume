@@ -1,0 +1,168 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "education": "Education",
+    "work": "Work Experience   "
+  },
+  "basics": {
+    "name": "Loh Zhun Yew",
+    "email": "lohzhunyewcs@gmail.com",
+    "location": {
+      "address": "Malaysia/Singapore"
+    },
+    "website": "https://github.com/lohzhunyewcs/",
+    "phone": "+60122780318/+6590394609"
+  },
+  "education": [
+    {
+      "institution": "Monash University Malaysia",
+      "location": "Malaysia",
+      "area": "Computer Science",
+      "studyType": "BSC",
+      "startDate": "Oct 2017",
+      "endDate": "June 2020"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Developed and maintained Backend OCR API systems for multiple region IC cards to help automate KYC process",
+        "Generated Synthetic data to allow existing OCR system to identify over 2000 chinese characters that were not in the dataset",
+        "Modified existing backend API to improve model upgrade time",
+        "Added data pipeline to make retraining more efficient regardless of framework",
+        "Created evaluation and visualisation tools to improve time used for debugging for model outputs ",
+        "Updated dockerfiles to decrease build and deployment time by 90%",
+        "Deployed models to C++ Backends to decrease inference time without increasing memory usage"
+      ],
+      "company": "Shopee",
+      "position": "Software Engineer, Machine Learning, Identity Verificaiton",
+      "location": "Singapore",
+      "startDate": "Feb 2022",
+      "endDate": "Nov 2022"
+    },
+    {
+      "website": "",
+      "highlights": [
+        "Trained an OCR system to replace Google Cloud OCR",
+        "Prepared and maintained pipelines to handle dataset for text recognition and detection, object detection and others for various formats",
+        "Identified and fixed data bug that increased model accuracy from 70% to almost 100%",
+        "Trained SOTA object detection to identify key regions in documents to 95% accuracy",
+        "Used semi-supervised learning to create and extract new data.",
+        "Deployed models using Triton and TorchServe to improve API update rate and inference speed by 50%",
+        "Helped deploy and maintain an e-KYC(Know your customer) API system on Alibaba cloud with docker",
+        "Created many dockerfiles to consistently replicate the right environments for software to run in",
+        "Trained NLP and CV models and deployed a backend api to help classify images and its description into food, beverages and others including alcohols",
+        "Refactored backend server to use a newer technology that peforms faster and fixes security vulnerabilities"
+      ],
+      "company": "Revenue Monster",
+      "position": "Software Engineer, Machine Learning",
+      "startDate": "August 2020"
+    },
+    {
+      "highlights": [
+        "Teaching Assistant for Object Oriented Programming in 2020(Nominated for a Teaching Award), Intro to Comp Sci in 2021"
+      ],
+      "company": "Monash University Malaysia",
+      "position": "Teaching Assistant",
+      "location": "Malaysia",
+      "startDate": "August 2020",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Remade their existing Data Labelling tool for Object Detection, OCR and Semantic Segmentation using Flask, Javascript and enhanced it to improve data labelling speed by at least double",
+        "Trained Semantic Segmentation Neural Net using real world data with Tensorflow and Pytorch to replace their current system to extract identity cards"
+      ],
+      "endDate": "Feb 2020",
+      "startDate": "Dec 2019",
+      "location": "Malaysia",
+      "position": "AI Intern",
+      "company": "WiseAI"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "C++",
+        "Python",
+        "SQL",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Rust",
+        "Go"
+      ]
+    },
+    {
+      "keywords": [
+        "Algorithms and Data Structures",
+        "Advanced Algorithm and Data Structures"
+      ],
+      "name": "Relevant Monash Completed Courses"
+    },
+    {
+      "keywords": [
+        "Databases, Parallel Computing, Big Data Management and Processing"
+      ],
+      "name": "Relevant Monash Completed Courses"
+    },
+    {
+      "keywords": [
+        "Certified iOS Developer(2014)"
+      ],
+      "name": "Certificates"
+    },
+    {
+      "keywords": [
+        "Flask, Django, ReactJS, Spark, Kafka, MongoDB, Triton, Torchserve"
+      ],
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "Tensorflow, SciKit, Pytorch, Paddlepaddle"
+      ],
+      "name": "Libraries"
+    },
+    {
+      "keywords": [
+        "Docker, Alibaba Cloud instances"
+      ],
+      "name": "Relevant Tools"
+    },
+    {
+      "keywords": [
+        "Andrew Ng's Machine Learning, Deep Learning. CS50 Web development"
+      ],
+      "name": "Relevant Online Courses"
+    },
+    {
+      "keywords": [
+        "Stanford's NLP with Deep Learning"
+      ],
+      "name": "Relevant Online Courses"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        null
+      ]
+    }
+  ],
+  "awards": [
+    {}
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
