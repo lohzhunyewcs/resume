@@ -27,9 +27,9 @@
     {
       "highlights": [
         "Developed and maintained Backend OCR API systems for multiple region IC cards to help automate KYC process",
-        "Generated Synthetic data to allow existing OCR system to identify over 2000 chinese characters that were not in the dataset",
+        "Trained multiple OCR models to over 99% accuracy for multiple IC regions",
         "Modified existing backend API to improve model upgrade time",
-        "Added data pipeline to make retraining more efficient regardless of framework",
+        "Generated Synthetic data to allow existing OCR system to identify over 2000 chinese characters that were not in the dataset",
         "Created evaluation and visualisation tools to improve time used for debugging for model outputs ",
         "Updated dockerfiles to decrease build and deployment time by 90%",
         "Deployed models to C++ Backends to decrease inference time without increasing memory usage"
