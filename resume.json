@@ -8,10 +8,10 @@
     "name": "Loh Zhun Yew",
     "email": "lohzhunyewcs@gmail.com",
     "location": {
-      "address": "Malaysia/Singapore"
+      "address": "Malaysia"
     },
     "website": "https://github.com/lohzhunyewcs/",
-    "phone": "+60122780318/+6590394609"
+    "phone": "+60122780318"
   },
   "education": [
     {
@@ -26,38 +26,41 @@
   "work": [
     {
       "highlights": [
-        "Developed and maintained Backend OCR API systems for multiple region IC cards to help automate KYC process",
+        "Developed and maintained Backend OCR API systems for multiple regions to automate KYC process",
         "Trained multiple OCR models to over 99% accuracy for multiple IC regions",
-        "Modified existing backend API to improve model upgrade time",
-        "Generated Synthetic data to allow existing OCR system to identify over 2000 chinese characters that were not in the dataset",
+        "Improved existing backend API to improve model upgrade time by 90%",
+        "Made synthetic data to allow detection of 2000 out of dataset characters",
         "Created evaluation and visualisation tools to improve time used for debugging for model outputs ",
         "Updated dockerfiles to decrease build and deployment time by 90%",
-        "Deployed models to C++ Backends to decrease inference time without increasing memory usage"
+        "Deployed models to C++ Backends to decrease inference time without increasing memory usage",
+        "Trained multiple image classification, segmentation models to over 99% accuracy",
+        "Trained NLP models to improve OCR models output from 72% to 99% accuracy"
       ],
-      "company": "Shopee",
-      "position": "Software Engineer, Machine Learning, Identity Verificaiton",
+      "company": "Shopee Singapore",
       "location": "Singapore",
       "startDate": "Feb 2022",
-      "endDate": "Nov 2022"
+      "endDate": "Nov 2022",
+      "position": "Data Scientist EKYC"
     },
     {
       "website": "",
       "highlights": [
         "Trained an OCR system to replace Google Cloud OCR",
-        "Prepared and maintained pipelines to handle dataset for text recognition and detection, object detection and others for various formats",
+        "Prepared and maintained data pipelines for text recognition and detection, object detection and others",
         "Identified and fixed data bug that increased model accuracy from 70% to almost 100%",
         "Trained SOTA object detection to identify key regions in documents to 95% accuracy",
-        "Used semi-supervised learning to create and extract new data.",
+        "Used semi-supervised learning to create and extract new data, reducing hundreds of manhours",
         "Deployed models using Triton and TorchServe to improve API update rate and inference speed by 50%",
         "Helped deploy and maintain an e-KYC(Know your customer) API system on Alibaba cloud with docker",
         "Created many dockerfiles to consistently replicate the right environments for software to run in",
-        "Trained NLP and CV models and deployed a backend api to help classify images and its description into food, beverages and others including alcohols",
+        "Trained NLP and CV models to help classify food, beverage and others",
         "Refactored backend server to use a newer technology that peforms faster and fixes security vulnerabilities"
       ],
       "company": "Revenue Monster",
-      "position": "Software Engineer, Machine Learning",
+      "position": "Software Engineer Machine Learning",
       "startDate": "August 2020",
-      "endDate": "January 2022"
+      "endDate": "January 2022",
+      "location": "Malaysia"
     },
     {
       "highlights": [
