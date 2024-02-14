@@ -26,15 +26,25 @@
   "work": [
     {
       "highlights": [
+        "Developed brand recognition and library models(over 500k) to support global e-commerce market",
+        "Trained a multi-modal Blip to replace OCR models to reduce inference time by 95% and failure rate to 0%",
+        "Used LLMs to perform data cleaning and labelling to reduce manpower hours and cost",
+        "Consolidated multilingual NLP models into a single NLP model while increasing accuracy to over 99%"
+      ],
+      "company": "TikTok Singapore",
+      "location": "Singapore",
+      "startDate": "Oct 2023",
+      "endDate": "",
+      "position": "Data Scientist TikTok E-Commerce"
+    },
+    {
+      "highlights": [
         "Developed and maintained Backend OCR API systems for multiple regions to automate KYC process",
-        "Trained multiple OCR models to over 99% accuracy for multiple IC regions",
-        "Improved existing backend API to improve model upgrade time by 90%",
-        "Made synthetic data to allow detection of 2000 out of dataset characters",
-        "Created evaluation and visualisation tools to improve time used for debugging for model outputs ",
-        "Updated dockerfiles to decrease build and deployment time by 90%",
-        "Deployed models to C++ Backends to decrease inference time without increasing memory usage",
-        "Trained multiple image classification, segmentation models to over 99% accuracy",
-        "Trained NLP models to improve OCR models output from 72% to 99% accuracy"
+        "Trained Image/Text classification, segmentation and OCR models to over 99% accuracy for multiple IC regions",
+        "Improved existing backend API to improve model upgrade time, server build and deployment time by 90%",
+        "Generated synthetic data to allow OCR to support up to 9000 characters",
+        "Deployed and maintained multiple API servers to serve the e-KYC models",
+        "Built evaluation and visualisation tools to imrpove time used for debugging model outputs"
       ],
       "company": "Shopee Singapore",
       "location": "Singapore",
@@ -45,16 +55,12 @@
     {
       "website": "",
       "highlights": [
-        "Trained an OCR system to replace Google Cloud OCR",
-        "Prepared and maintained data pipelines for text recognition and detection, object detection and others",
-        "Identified and fixed data bug that increased model accuracy from 70% to almost 100%",
-        "Trained SOTA object detection to identify key regions in documents to 95% accuracy",
-        "Used semi-supervised learning to create and extract new data, reducing hundreds of manhours",
-        "Deployed models using Triton and TorchServe to improve API update rate and inference speed by 50%",
-        "Helped deploy and maintain an e-KYC(Know your customer) API system on Alibaba cloud with docker",
-        "Created many dockerfiles to consistently replicate the right environments for software to run in",
-        "Trained NLP and CV models to help classify food, beverage and others",
-        "Refactored backend server to use a newer technology that peforms faster and fixes security vulnerabilities"
+        "Developed End-to-end eKYC system such as OCR, facial recognition, liveness detection and key-region detection up to 95% accuracy",
+        "Prepared and maintained data pipelines for different text and image tasks for deep learning",
+        "Used semi-supervised learning to create and extract new data without using manpower",
+        "Developed and maintained e-KYC API system on AliCloud using docker and kubernetes",
+        "Developed menu segmentation models to help classify food and beverage categories",
+        "Refactored API server to use security authentication, patch security vulnerabilities and perform faster"
       ],
       "company": "Revenue Monster",
       "position": "Software Engineer Machine Learning",
@@ -71,17 +77,6 @@
       "location": "Malaysia",
       "startDate": "August 2020",
       "endDate": "January 2022"
-    },
-    {
-      "highlights": [
-        "Remade their existing Data Labelling tool for Object Detection, OCR and Semantic Segmentation using Flask, Javascript and enhanced it to improve data labelling speed by at least double",
-        "Trained Semantic Segmentation Neural Net using real world data with Tensorflow and Pytorch to replace their current system to extract identity cards"
-      ],
-      "endDate": "Feb 2020",
-      "startDate": "Dec 2019",
-      "location": "Malaysia",
-      "position": "AI Intern",
-      "company": "WiseAI"
     }
   ],
   "skills": [
