@@ -8,10 +8,10 @@
     "name": "Loh Zhun Yew",
     "email": "lohzhunyewcs@gmail.com",
     "location": {
-      "address": "Malaysia"
+      "address": "Singapore"
     },
     "website": "https://github.com/lohzhunyewcs/",
-    "phone": "+60122780318"
+    "phone": "+65 90394609"
   },
   "education": [
     {
@@ -26,10 +26,12 @@
   "work": [
     {
       "highlights": [
-        "Developed brand recognition and library models(over 500k) to support global e-commerce market",
-        "Trained a multi-modal Blip to replace OCR models to reduce inference time by 95% and failure rate to 0%",
+        "Developed brand recognition and library models(over 2 million brands) to support global e-commerce market",
+        "Unified 8 countries' brand recognition model into 1 to be multilingual and multi-modal while increasing accuracy and zero shot capabilities for new market openings",
         "Used LLMs to perform data cleaning and labelling to reduce manpower hours and cost",
-        "Consolidated multilingual NLP models into a single NLP model while increasing accuracy to over 99%"
+        "Doubled the number of branded products using brand recognition model",
+        "Vastly expanded brand library to include various metadata such as logos, brand story etc. to help improve normalization and recognition",
+        "Developed and automated brand deduplication pipeline for all incoming brands to maintain a deduplication rate of below 10%"
       ],
       "company": "TikTok Singapore",
       "location": "Singapore",
