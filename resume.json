@@ -27,11 +27,12 @@
     {
       "highlights": [
         "Developed brand recognition and library models(over 2 million brands) to support global e-commerce market",
-        "Unified 8 countries' brand recognition model into 1 to be multilingual and multi-modal while increasing accuracy and zero shot capabilities for new market openings",
-        "Used LLMs to perform data cleaning and labelling to reduce manpower hours and cost",
-        "Doubled the number of branded products using brand recognition model",
+        "Unified 8 countries' brand recognition model into 1 to be multilingual and multi-modal while increasing accuracy and zero shot capabilities for new market openings such as Mexico, Brazil and Spain",
+        "Increased number of branded products from 12% -> 25% through brand recognition models",
         "Vastly expanded brand library to include various metadata such as logos, brand story etc. to help improve normalization and recognition",
-        "Developed and automated brand deduplication pipeline for all incoming brands to maintain a deduplication rate of below 10%"
+        "Developed and automated brand deduplication pipeline for all incoming brands to maintain a deduplication rate of below 10%",
+        "SFT-ed LLM to use RAG in a recommendation system to recommend users products based on their content(live, shorts etc.) viewing experience and products purchasing history",
+        "Post trained LLM using RLHF methods such as  GRPO to recommend unique and better products"
       ],
       "company": "TikTok Singapore",
       "location": "Singapore",
@@ -61,8 +62,7 @@
         "Prepared and maintained data pipelines for different text and image tasks for deep learning",
         "Used semi-supervised learning to create and extract new data without using manpower",
         "Developed and maintained e-KYC API system on AliCloud using docker and kubernetes",
-        "Developed menu segmentation models to help classify food and beverage categories",
-        "Refactored API server to use security authentication, patch security vulnerabilities and perform faster"
+        "Developed menu segmentation models to help classify food and beverage categories"
       ],
       "company": "Revenue Monster",
       "position": "Software Engineer Machine Learning",
